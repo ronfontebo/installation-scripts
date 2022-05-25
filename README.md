@@ -1,2 +1,2 @@
-# installation-scripts-
-A repository with scripts for installing various devops tools.
+# installation-scripts
+A repository containing scripts for installing various devops tools.
