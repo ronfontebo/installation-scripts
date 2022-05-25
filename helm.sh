@@ -25,7 +25,7 @@ helm
 # 5- Add the stable helm repo (OPTIONAL) -
 # Once you have successfully installed Helm, you can move on to using Helm to manage charts by: 
 # - Adding the stable helm repo that contains stable helm charts developed and maintained by the community and using the "helm search repo" command to search for the helm chart of a package/sofware of your choice. 
-#   Uncomment the "hel repo add stable" line below to activate this option
+#   Uncomment the "hel repo add stable" line below to activate this option.
 #    OR 
 # - Creating your own charts.
 
